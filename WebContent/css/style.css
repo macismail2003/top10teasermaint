@@ -1,0 +1,61 @@
+.surplusSection{
+    background-color: #ffcbcb !important;
+    color: #000000;
+}
+
+.shortageSection{
+    background-color: #96ef9a !important;
+    color: #000000;
+}
+
+.marginTop7{
+	    margin-top: 7px;
+}
+.wraptext{
+white-space: pre-wrap !important;
+}
+
+.wraptextcol{
+white-space: pre-wrap !important;
+font-size: 13px !important;
+font-weight: bold !important;
+}
+
+.selectionLabels{
+    width: 180px;
+    text-align: left;
+    /* width: 100px; */
+    text-align: left;
+    margin-top: 5px !important;
+    text-align: left !important;
+    font-family: Arial,Helvetica,sans-serif !important;
+    font-size: 12px !important;
+    white-space: pre-wrap !important;
+		color : black !important;
+}
+
+.selectionLabelsLabel{
+	width: 180px;
+	text-align: left;
+	/* width: 100px; */
+	text-align: left;
+	margin-top: 18px !important;
+	text-align: left !important;
+	font-family: Arial,Helvetica,sans-serif !important;
+	font-size: 15px !important;
+	font-weight: bolder !important;
+	color: black!important;
+}
+
+.textFieldClass{
+		color: #000000;
+    background: #f0f0f0 !important;
+    border: 1px solid #c0c0c0 !important;
+    width: 6ex !important;
+    font-size: 0.875rem;
+    font-family: Arial,Helvetica,sans-serif;
+    line-height: normal;
+    height: 1.2rem;
+    padding: 0 0.75rem;
+    height: 1.5rem;
+}
